@@ -1,0 +1,1 @@
+No external packages are required because this project uses only Python's standard library.
